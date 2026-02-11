@@ -15,11 +15,11 @@ This project showcases Ionify dev/build workflow with React Router, state manage
 
 ### Login Screen
 
-![React Ionify Login](docs/screenshots/login.png)
+![React Ionify Login](docs/screenshots/Login.png)
 
 ### Home Screen
 
-![React Ionify Home](docs/screenshots/home.png)
+![React Ionify Home](docs/screenshots/Home.png)
 
 ## Run Locally
 
